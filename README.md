@@ -1,4 +1,4 @@
-# YAPGateway
+# YAPGateway - Yet Another Payment Gateway
 
 A technical case study: building a full-featured payment gateway for the Brazilian market on serverless infrastructure.
 
